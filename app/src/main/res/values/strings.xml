@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">aop-part2-chapter01</string>
+    <string name="height">신장</string>
+    <string name="weight">체중</string>
+    <string name="confirm">확인하기</string>
+    <string name="bmiTitle">BMI : </string>
+    <string name="resultTitle">결과는 : </string>
+</resources>
